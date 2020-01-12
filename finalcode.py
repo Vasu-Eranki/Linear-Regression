@@ -63,4 +63,3 @@ def main():
 		print("Time to compute data was",(stop-start))
 		
 main()
-l
